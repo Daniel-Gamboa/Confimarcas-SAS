@@ -1,0 +1,118 @@
+
+*{
+	padding:0px;
+	margin: 0px;
+}
+
+/* Header - Navegación*/
+
+header{
+	width: 100%; 
+	display: flex;
+	background-image: url(multimedia/header.png); 
+	background-repeat: no-repeat;
+	background-size: 100% 40%;
+
+}
+.barraNavegacion{
+	
+}
+
+
+#logo{
+	margin-top: 50px;
+	width: 250px;
+}
+
+.navegacion{
+	display: flex;
+	width: 100%;
+	float: left;
+	
+}
+	
+.navegacion ul{
+	display: flex;
+	width: 100%;
+	list-style-type: none;
+	font-size: 0px;	
+	
+	align-items: flex-end;
+	align-content: flex-start;
+
+}
+
+.navegacion li{
+	display: inline-block;
+	width: 20%;
+	font-size: 20px;
+	position: relative;
+	border: solid 1px black;
+	flex; 1;
+
+}
+
+.navegacion li a{
+	/*background-color: grey;*/
+	justify-content: flex-end;
+	color: blue;
+	font-family: 'Dosis',Impact,Charcoal,sans-serif;
+	text-decoration: none;
+	padding: 5px;
+
+}
+.navegacion ul ul{
+	position: absolute;
+	display: none;
+}
+
+.navegacion ul ul li{
+	display: block;
+}
+
+.navegacion ul li:hover ul{
+	display: block;
+}	
+
+/*Main*/
+
+h1{
+	/*word-spacing: 20px;*/
+}
+
+
+.imagenesPrincipales{
+	display: flex;
+	flex direction: row;
+	justify-content: space-around;
+	width: 100%
+}
+
+.imagen2 img{
+	width: 300px;
+	margin-top: 50px;
+}
+
+#imagenCatalogo{
+	width: 200px;
+}
+
+.carrusel {
+       background-color: blue;
+       color: white;
+}
+
+
+@media (max-width: 576px) {
+.carrusel {
+background-color: aqua;
+color: black;
+}
+}
+
+
+/*Footer*/
+
+.footer{
+	}
+

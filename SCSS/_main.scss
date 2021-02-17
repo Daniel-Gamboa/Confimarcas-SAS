@@ -1,0 +1,37 @@
+main{
+	background-color: $main-fondo;
+	height: 100%;
+}
+
+h1{
+	background-color: $main-fondo-titulos;
+	text-align: center;
+}
+
+p{
+	@extend %fuenteComun;
+}
+
+h3{
+	li{
+		@extend %valores;
+
+	}
+}
+
+.valores{
+	display: flex;
+	width: 100%;
+
+}
+.columna1{
+
+	@include cambiarBorde(5px, double);
+	@extend %listaValores;
+	margin-left: 125px;
+}
+
+.columna2{
+	@include cambiarBorde(5px, double);
+	@extend %listaValores;
+}

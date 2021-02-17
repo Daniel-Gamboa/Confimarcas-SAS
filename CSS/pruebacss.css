@@ -1,0 +1,91 @@
+p {
+  font-family: 'Sriracha', cursive;
+  margin: 50px; }
+
+h3 li {
+  margin-left: 50px; }
+
+.columna1, .columna2 {
+  display: inline-block;
+  width: 40%;
+  position: relative;
+  flex: 1; }
+
+header {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  background-image: url(Clase12\Desafio12\Multimedia/header.png);
+  background-repeat: no-repeat;
+  background-size: 100% 40%;
+  background-color: #42f5dd; }
+
+#logo {
+  margin-top: 50px;
+  width: 250px; }
+
+.navegacion ul {
+  display: flex;
+  width: 100%;
+  list-style-type: none;
+  font-size: 0px;
+  align-items: flex-end;
+  align-content: flex-start; }
+  .navegacion ul li {
+    display: inline-block;
+    width: 20%;
+    font-size: 20px;
+    position: relative;
+    border: solid 1px black;
+    flex: 1; }
+    .navegacion ul li a {
+      justify-content: flex-end;
+      color: blue;
+      font-family: 'Dosis',Impact,Charcoal,sans-serif;
+      text-decoration: none;
+      padding: 5px; }
+  .navegacion ul ul {
+    position: absolute;
+    display: none; }
+    .navegacion ul ul li {
+      display: block; }
+  .navegacion ul li:hover ul {
+    display: block; }
+
+main {
+  background-color: #42f575;
+  height: 100%; }
+
+h1 {
+  background-color: #2ae815;
+  text-align: center; }
+
+.valores {
+  display: flex;
+  width: 100%; }
+
+.columna1 {
+  border-width: 5px;
+  border-style: double;
+  margin-left: 125px; }
+
+.columna2 {
+  border-width: 5px;
+  border-style: double; }
+
+footer {
+  background-color: #1e71d6;
+  color: white; }
+
+.footer {
+  width: 100%;
+  height: 0%;
+  margin: 40px 10px  10px  0px;
+  padding-left: 500px; }
+
+.footer h2 {
+  position: center; }
+
+* {
+  padding: 0px;
+  margin: 0px; }

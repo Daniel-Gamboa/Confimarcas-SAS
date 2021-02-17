@@ -1,0 +1,21 @@
+%fuenteComun{
+	font-family: 'Sriracha', cursive;
+	margin:50px;
+}
+
+%valores{
+	margin-left:50px;
+}
+
+%listaValores{
+	display: inline-block;
+	width: 40%;
+	position: relative;
+	flex: 1;
+}
+
+@mixin cambiarBorde($ancho, $estilo){
+	border-width: $ancho;
+	border-style: $estilo; 
+
+}
