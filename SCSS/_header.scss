@@ -13,6 +13,7 @@ header{
 	width: 250px;
 }
 
+
 .navegacion {ul{
 	display: flex;
 	width: 100%;
@@ -29,6 +30,7 @@ header{
 	position: relative;
 	border: solid 1px black;
 	flex: 1;
+	text-align: center;
 
 	 a{
 	justify-content: flex-end;
@@ -46,11 +48,18 @@ header{
 
 	li{
 	display: block;
+	width: 100%;
+	text-align: center;
 	}
 }
 	li:hover ul{
 	display: block;
+
 		}	
 	}
 
+}
+
+#imagenCatalogo{
+	width: 200px;
 }
