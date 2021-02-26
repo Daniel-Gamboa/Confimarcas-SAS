@@ -27,10 +27,10 @@ header {
   margin-top: 50px;
   width: 250px; }
 
-.barraNavegacion {
-  display: flex;
-  justify-content: space-between; }
-
+/*.barraNavegacion{
+	display: flex;
+	justify-content: space-between;
+}*/
 .navegacion ul {
   display: flex;
   width: 100%;
@@ -61,7 +61,7 @@ header {
       text-align: center; }
   .navegacion ul li:hover ul {
     display: block;
-    z-index: 1; }
+    /*	z-index: 1;*/ }
 
 #imagenCatalogo {
   width: 200px; }
