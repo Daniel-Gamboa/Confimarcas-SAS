@@ -33,3 +33,8 @@ h3{
 	@include cambiarBorde(5px, double);
 	@extend %listaValores;
 }
+
+.carrusel-padre {
+	display: flex;
+	justify-content: center;
+}
