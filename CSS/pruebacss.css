@@ -27,10 +27,6 @@ header {
   margin-top: 50px;
   width: 250px; }
 
-/*.barraNavegacion{
-	display: flex;
-	justify-content: space-between;
-}*/
 .navegacion ul {
   display: flex;
   width: 100%;
