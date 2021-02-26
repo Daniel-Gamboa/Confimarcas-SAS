@@ -61,7 +61,7 @@ header {
       text-align: center; }
   .navegacion ul li:hover ul {
     display: block;
-    /*	z-index: 1;*/ }
+    z-index: 1; }
 
 #imagenCatalogo {
   width: 200px; }
