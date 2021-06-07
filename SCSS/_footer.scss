@@ -1,0 +1,13 @@
+footer{
+background-color: $color-corporativo1;
+color: white;
+width:100%;
+}
+
+.imgRedes {
+@include cambiarTamaño(30px,30px);
+}
+
+.transport{
+@include cambiarTamaño(80px,80px);
+}

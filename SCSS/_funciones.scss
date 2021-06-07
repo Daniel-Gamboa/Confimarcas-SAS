@@ -1,0 +1,43 @@
+%fuenteComun{
+font-family: 'Sriracha', cursive;
+
+}
+
+%listaValores{
+display: inline-block;
+width: 40%;
+position: relative;
+flex: 1;
+ul li{
+list-style: none;
+margin-top:5px;
+text-align:center;
+}
+p{
+margin:0px 20px 0px 20px; 
+}
+}
+
+%fondoTitulo{
+font: inherit;
+height: 100px;
+background-size: 50px 50px;
+justify-content: center;
+}
+
+%tituloImgTamaño{
+height: 150px;
+width: 400px;
+}
+
+@mixin cambiarTamaño($ancho, $alto){
+width: $ancho;
+height: $alto;
+}
+
+@mixin cambiarBorde($ancho, $estilo){
+border-width: $ancho;
+border-style: $estilo; 
+
+}
+

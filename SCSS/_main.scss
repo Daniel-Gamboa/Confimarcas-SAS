@@ -1,0 +1,122 @@
+body{
+width: 100%;
+}
+
+main{
+height: 100%;
+padding-top: 165px;
+position: relative;
+}
+
+p{
+@extend %fuenteComun;
+}
+
+.carrusel-padre {
+display: flex;
+justify-content: center;
+img {
+@include cambiarTamaño(100%,100%)
+}
+}
+
+.tituloPrincipal{
+color: $titulo-principal;
+text-align: center;
+}
+
+.fondoTitulo{
+@extend %fondoTitulo;
+background-image: url(../Multimedia/CorazonesColores.jpeg);
+img {
+@extend %tituloImgTamaño;
+}
+}	
+
+.fondoTitulo2 {
+@extend %fondoTitulo;
+background-image: url(../Multimedia/AlmendraFondo.PNG);
+img {
+@extend %tituloImgTamaño;
+}
+}	
+
+.fondoTitulo3 {
+@extend %fondoTitulo;
+background-image: url(../Multimedia/LluviaChocolates.png);
+img {
+@extend %tituloImgTamaño;
+}
+}	
+
+.fondoTitulo4 {
+@extend %fondoTitulo;
+background-image: url(../Multimedia/LluviaPapas.png);
+img {
+@extend %tituloImgTamaño;
+}
+}
+
+.menu-productos{
+    text-align: center;
+    position: absolute;
+    width: 90%;
+    ul {
+        position: relative;
+        display: none;
+        li{
+        display: block;
+        
+        }
+        }
+        div:hover ul{
+        display: block;
+        z-index: 1;
+        }	
+        }
+
+
+        
+        
+        
+    
+.img-catalogo {
+@include cambiarTamaño(200px, 200px);
+:hover{
+transition: 1s;
+transform: scale(1.2);
+}
+}
+
+.img-catalogo2 {
+@include cambiarTamaño(400px, 200px);
+:hover{
+transition: 1s;
+transform: scale(1.2);
+}
+}
+
+.img-catalogo3 {
+@include cambiarTamaño(150px, 300px);
+:hover{
+transition: 1s;
+transform: scale(1.2);
+}
+}
+
+.columna1{
+
+@include cambiarBorde(5px, double);
+@extend %listaValores;
+
+}
+
+.columna2{
+@include cambiarBorde(5px, double);
+@extend %listaValores;
+}
+
+.imagenes-cuerpo {
+@include cambiarTamaño(300px, 300px);
+}
+

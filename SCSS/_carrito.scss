@@ -1,0 +1,33 @@
+#menuCarrito:hover {
+    text-decoration: none;
+}
+
+.button-incremento-decremento {
+    border: none;
+    background-color: $color-corporativo1;
+    color: wheat;
+    text-align: center;
+    font-size: 20px;
+    width: 20px;
+}
+
+.deleteItem {
+    background-color: wheat;
+    border: none;
+}
+
+.labelCantidad {
+    height: 20px;
+    width: 20px;
+    text-align: center;
+}
+
+.tabla-body {
+    th {
+        vertical-align: baseline;
+    }
+    td {
+        vertical-align: baseline;
+    }
+}
+

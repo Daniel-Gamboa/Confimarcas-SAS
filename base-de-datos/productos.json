@@ -1,0 +1,1169 @@
+[
+    {
+      "id": 1,
+      "nombre": "Ballenas Rellenas",
+      "descripcion": "gomas",
+      "categoria" : "fiambreras",
+      "precio": 16259,
+      "imagen": "Multimedia/Fiambreras/BallenasRellenas.PNG",
+      "stock": 100,
+      "cantidadCompra": 0
+    },
+
+    {
+        "id": 2,
+        "nombre": "Bichesitos",
+        "descripcion": "gomas",
+        "categoria" : "fiambreras",
+        "precio": 16259,
+        "imagen": "Multimedia/Fiambreras/Bichesitos.PNG",
+        "stock": 100,
+        "cantidadCompra": 0
+    },
+
+    {
+        "id": 3,
+        "nombre": "Cerebros Rellenos",
+        "descripcion": "gomas",
+        "categoria" : "fiambreras",
+        "precio": 16259,
+        "imagen": "Multimedia/Fiambreras/CerebrosRellenos.PNG",
+        "stock": 100,
+        "cantidadCompra": 0
+      },
+      
+      {
+        "id": 4,
+        "nombre": "Chilitos Rellenos Picantes",
+        "descripcion": "gomas",
+        "categoria" : "fiambreras",
+        "precio": 16259,
+        "imagen": "Multimedia/Fiambreras/ChilitosRellenosPicantes.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 5,
+        "nombre": "Colmillos",
+        "descripcion": "gomas",
+        "categoria" : "fiambreras",
+        "precio": 16259,
+        "imagen": "Multimedia/Fiambreras/Colmillos.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 6,
+        "nombre": "Corazones Brillantes",
+        "descripcion": "gomas",
+        "categoria" : "fiambreras",
+        "precio": 16259,
+        "imagen": "Multimedia/Fiambreras/CorazonesBrillantes.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 7,
+        "nombre": "Corazones Color",
+        "descripcion": "gomas",
+        "categoria" : "fiambreras",
+        "precio": 16259,
+        "imagen": "Multimedia/Fiambreras/Corazones.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 8,
+        "nombre": "Labios Rellenos",
+        "descripcion": "gomas",
+        "categoria" : "fiambreras",
+        "precio": 16259,
+        "imagen": "Multimedia/Fiambreras/LabiosRellenos.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 9,
+        "nombre": "Pizzas",
+        "descripcion": "gomas",
+        "categoria" : "fiambreras",
+        "precio": 16259,
+        "imagen": "Multimedia/Fiambreras/Pizzas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 10,
+        "nombre": "Tajadas de Sandia",
+        "descripcion": "gomas",
+        "categoria" : "fiambreras",
+        "precio": 16259,
+        "imagen": "Multimedia/Fiambreras/TajadasSandia.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 11,
+        "nombre": "Tiburones",
+        "descripcion": "gomas",
+        "categoria" : "fiambreras",
+        "precio": 16259,
+        "imagen": "Multimedia/Fiambreras/Tiburones.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 12,
+        "nombre": "Ballenas Rellenas",
+        "descripcion": "gomas",
+        "categoria" : "expositores",
+        "precio": 32771,
+        "imagen": "Multimedia/Expositores/BallenasRellenas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 13,
+        "nombre": "Chilitos Rellenos",
+        "descripcion": "gomas",
+        "categoria" : "expositores",
+        "precio": 32771,
+        "imagen": "Multimedia/Expositores/ChilitosRellenos.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 14,
+        "nombre": "Fresones Con Nata",
+        "descripcion": "gomas",
+        "categoria" : "expositores",
+        "precio": 32771,
+        "imagen": "Multimedia/Expositores/FresonesConNata.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 15,
+        "nombre": "Cintas Ácidas Tricolor",
+        "descripcion": "gomas",
+        "categoria" : "tarrinas",
+        "precio": 8740,
+        "imagen": "Multimedia/Tarrinas/CintasAcidasTricolor.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 16,
+        "nombre": "Cintas Ácidas Multicolor",
+        "descripcion": "gomas",
+        "categoria" : "tarrinas",
+        "precio": 8740,
+        "imagen": "Multimedia/Tarrinas/CintasAcidasMulticolor.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 17,
+        "nombre": "Cintas Ácidas Cereza",
+        "descripcion": "gomas",
+        "categoria" : "tarrinas",
+        "precio": 8740,
+        "imagen": "Multimedia/Tarrinas/CintasAcidasCereza.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 18,
+        "nombre": "Cables Ácidos Sandia",
+        "descripcion": "gomas",
+        "categoria" : "tarrinas",
+        "precio": 8740,
+        "imagen": "Multimedia/Tarrinas/CablesAcidosSandia.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 19,
+        "nombre": "Cables Ácidos Pintalenguas",
+        "descripcion": "gomas",
+        "categoria" : "tarrinas",
+        "precio": 8740,
+        "imagen": "Multimedia/Tarrinas/CablesAcidosPintalenguas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 20,
+        "nombre": "Cables Ácidos Tricolor",
+        "descripcion": "gomas",
+        "categoria" : "tarrinas",
+        "precio": 8740,
+        "imagen": "Multimedia/Tarrinas/CablesAcidosTricolor.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 21,
+        "nombre": "Cables Ácidos Fresa",
+        "descripcion": "gomas",
+        "categoria" : "tarrinas",
+        "precio": 8740,
+        "imagen": "Multimedia/Tarrinas/CablesAcidosFresa.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 22,
+        "nombre": "Cables Ácidos Frutos Rojos",
+        "descripcion": "gomas",
+        "categoria" : "tarrinas",
+        "precio": 8740,
+        "imagen": "Multimedia/Tarrinas/CablesAcidosFrutosRojos.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 23,
+        "nombre": "Twist Tutti Frutti",
+        "descripcion": "gomas",
+        "categoria" : "tarrinas",
+        "precio": 8740,
+        "imagen": "Multimedia/Tarrinas/TwistTuttiFrutti.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 24,
+        "nombre": "Twist Mango Biche",
+        "descripcion": "gomas",
+        "categoria" : "tarrinas",
+        "precio": 8740,
+        "imagen": "Multimedia/Tarrinas/TwistTuttiFrutti.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 25,
+        "nombre": "Rayaditos Frambuesa",
+        "descripcion": "gomas",
+        "categoria" : "tarrinas",
+        "precio": 8740,
+        "imagen": "Multimedia/Tarrinas/RayaditosFrambuesa.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 26,
+        "nombre": "Rayaditos Limon",
+        "descripcion": "gomas",
+        "categoria" : "tarrinas",
+        "precio": 8740,
+        "imagen": "Multimedia/Tarrinas/RayaditosLimon.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 27,
+        "nombre": "Cintas Ácidas Tricolor 260 Ud",
+        "descripcion": "gomas",
+        "categoria" : "bandeja260",
+        "precio": 34168,
+        "imagen": "Multimedia/CintasYCables/CintasAcidasTricolor.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 28,
+        "nombre": "Cables Ácidos Sabor Sandia 260 Ud",
+        "descripcion": "gomas",
+        "categoria" : "bandeja260",
+        "precio": 34168,
+        "imagen": "Multimedia/CintasYCables/CablesAcidosSandia.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 29,
+        "nombre": "Cables Ácidos Sabor Fresa 260 Ud",
+        "descripcion": "gomas",
+        "categoria" : "bandeja260",
+        "precio": 34168,
+        "imagen": "Multimedia/CintasYCables/CablesAcidosFresa260.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 30,
+        "nombre": "Cables Ácidos Pintalenguas 260 Ud",
+        "descripcion": "gomas",
+        "categoria" : "bandeja260",
+        "precio": 34168,
+        "imagen": "Multimedia/CintasYCables/CablesAcidosPintalenguas260.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 31,
+        "nombre": "Cables Ácidos Sabor Sandia 180 Ud",
+        "descripcion": "gomas",
+        "categoria" : "bandeja180",
+        "precio": 24246,
+        "imagen": "Multimedia/CintasYCables/CablesAcidosSaborSandia.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 32,
+        "nombre": "Cables Ácidos Pintalenguas 180 Ud",
+        "descripcion": "gomas",
+        "categoria" : "bandeja180",
+        "precio": 24246,
+        "imagen": "Multimedia/CintasYCables/CablesAcidosPintalenguas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 33,
+        "nombre": "Cables Ácidos Sabor Fresa 180 Ud",
+        "descripcion": "gomas",
+        "categoria" : "bandeja180",
+        "precio": 24246,
+        "imagen": "Multimedia/CintasYCables/CablesAcidosPintalenguas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 34,
+        "nombre": "Tajadas Sandia",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/TajadasSandia.PNG",
+        "stock": 100, 
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 35,
+        "nombre": "Bananas",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/Bananas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 36,
+        "nombre": "Ballenas Rellenas",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/BallenasRellenas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 37,
+        "nombre": "Cerebros Rellenos",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/CerebrosRellenos.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 38,
+        "nombre": "Chilitos Rellenos",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/ChilitosRellenos.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 39,
+        "nombre": "Huevos Fritos",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/HuevosFritos.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 40,
+        "nombre": "Huevos Fritos Gigantes",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/HuevosFritosGigantes.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 41,
+        "nombre": "Tiburones",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/Tiburones.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 42,
+        "nombre": "Anacondas",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/Anacondas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 43,
+        "nombre": "Dinamitas",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/Dinamitas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 44,
+        "nombre": "Cables XXL Sandia",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/CablesXXLSandia.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 45,
+        "nombre": "Sandias Chicle",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/SandiasChicle.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 46,
+        "nombre": "Unicornios",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/Unicornios.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 47,
+        "nombre": "Huesos Jelly Light",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/HuesosJellyLight.PNG  ",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 48,
+        "nombre": "Delfines",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/Delfines.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 49,
+        "nombre": "Gusanos Acidos",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/GusanosAcidos.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 50,
+        "nombre": "Fresas Silvestres",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/FresasSilvestres.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 51,
+        "nombre": "Corazon Melocoton",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/CorazonMelocoton.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 52,
+        "nombre": "Sandias Chicle",
+        "descripcion": "gomas",
+        "categoria" : "bolsaUnKg",
+        "precio": 19594,
+        "imagen": "Multimedia/FormatoBolsa1kg/SandiasChicle.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 53,
+        "nombre": "Tartitas Twist Sandia",
+        "descripcion": "gomas",
+        "categoria" : "bolsa250",
+        "precio": 24000,
+        "imagen": "Multimedia/Bolsa250/TartitasTwistSandia.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 54,
+        "nombre": "Corazon Corazon",
+        "descripcion": "gomas",
+        "categoria" : "bolsa250",
+        "precio": 24000,
+        "imagen": "Multimedia/Bolsa250/CorazonCorazon.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 55,
+        "nombre": "Tajadas Piña Colada",
+        "descripcion": "gomas",
+        "categoria" : "bolsa250",
+        "precio": 24000,
+        "imagen": "Multimedia/Bolsa250/TajadasPiñaColada.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 56,
+        "nombre": "School Mix",
+        "descripcion": "gomas",
+        "categoria" : "bolsa250",
+        "precio": 24000,
+        "imagen": "Multimedia/Bolsa250/SchoolMix.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 57,
+        "nombre": "Ballenas Rellenas",
+        "descripcion": "gomas",
+        "categoria" : "bolsa500",
+        "precio": 10317,
+        "imagen": "Multimedia/FormatoBolsa500gr/BallenasRellenas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 58,
+        "nombre": "Chilitos Rellenos",
+        "descripcion": "gomas",
+        "categoria" : "bolsa500",
+        "precio": 10317,
+        "imagen": "Multimedia/FormatoBolsa500gr/ChilitosRellenos.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 59,
+        "nombre": "Sandias Chicle",
+        "descripcion": "gomas",
+        "categoria" : "bolsa500",
+        "precio": 10860,
+        "imagen": "Multimedia/FormatoBolsa500gr/SandiasChicle.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 60,
+        "nombre": "Pizzas",
+        "descripcion": "gomas",
+        "categoria" : "bolsa500",
+        "precio": 9553,
+        "imagen": "Multimedia/FormatoBolsa500gr/Pizzas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 61,
+        "nombre": "Colmillos",
+        "descripcion": "gomas",
+        "categoria" : "bolsa500",
+        "precio": 9553,
+        "imagen": "Multimedia/FormatoBolsa500gr/Colmillos.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 62,
+        "nombre": "Cables Ácidos Sandia",
+        "descripcion": "gomas",
+        "categoria" : "bolsa45.5",
+        "precio": 1296,
+        "imagen": "Multimedia/Bolsa45gr/CablesAcidosSandia.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 63,
+        "nombre": "Cables Ácidos Pintalenguas",
+        "descripcion": "gomas",
+        "categoria" : "bolsa45.5",
+        "precio": 1296,
+        "imagen": "Multimedia/Bolsa45gr/CablesAcidosPintalenguas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 64,
+        "nombre": "Cables Ácidos Tricolor",
+        "descripcion": "gomas",
+        "categoria" : "bolsa45.5",
+        "precio": 1296,
+        "imagen": "Multimedia/Bolsa45gr/CablesAcidosTricolor.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 65,
+        "nombre": "Ocean Jelly",
+        "descripcion": "gomas",
+        "categoria" : "jelly",
+        "precio": 37393,
+        "imagen": "Multimedia/Otros/OceanJelly.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 66,
+        "nombre": "Creepy Jelly",
+        "descripcion": "gomas",
+        "categoria" : "jelly",
+        "precio": 37393,
+        "imagen": "Multimedia/Otros/CreepyJelly.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 67,
+        "nombre": "Dino Jelly",
+        "descripcion": "gomas",
+        "categoria" : "jelly",
+        "precio": 37393,
+        "imagen": "Multimedia/Otros/DinoJelly.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 68,
+        "nombre": "Rainbow Belts",
+        "descripcion": "gomas",
+        "categoria" : "bolsa100",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa100gr/RainbowBelts.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 69,
+        "nombre": "Cintas Tricolor",
+        "descripcion": "gomas",
+        "categoria" : "bolsa100",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa100gr/CintasTricolor.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 70,
+        "nombre": "Watermelon Slices",
+        "descripcion": "gomas",
+        "categoria" : "bolsa100",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa100gr/WatermelonSlices.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 71,
+        "nombre": "Melones",
+        "descripcion": "gomas",
+        "categoria" : "bolsa100",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa100gr/Melones.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 72,
+        "nombre": "Bananas",
+        "descripcion": "gomas",
+        "categoria" : "bolsa100",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa100gr/Bananas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 73,
+        "nombre": "Moras Zarza",
+        "descripcion": "gomas",
+        "categoria" : "bolsa100",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa100gr/MorasZarza.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 74,
+        "nombre": "Cables Sabor a Fresa",
+        "descripcion": "gomas",
+        "categoria" : "bolsa100",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa100gr/CablesSaborFresa.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 75,
+        "nombre": "Cables Multicolor",
+        "descripcion": "gomas",
+        "categoria" : "bolsa100",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa100gr/CablesMulticolor.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 76,
+        "nombre": "Sharks",
+        "descripcion": "gomas",
+        "categoria" : "bolsa100",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa100gr/Sharks.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 77,
+        "nombre": "Tortugas Rellenas",
+        "descripcion": "gomas",
+        "categoria" : "bolsa100",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa100gr/TortugasRellenas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 78,
+        "nombre": "Pizzas Rellenas",
+        "descripcion": "gomas",
+        "categoria" : "bolsa80",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa80gr/PizzasRellenas.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 79,
+        "nombre": "Besos Rellenos",
+        "descripcion": "gomas",
+        "categoria" : "bolsa80",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa80gr/BesosRellenos.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 80,
+        "nombre": "Corazones Melocoton",
+        "descripcion": "gomas",
+        "categoria" : "bolsa80",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa80gr/CorazonesMelocoton.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 81,
+        "nombre": "Footballs",
+        "descripcion": "gomas",
+        "categoria" : "bolsa80",
+        "precio": 2660,
+        "imagen": "Multimedia/Bolsa80gr/Footballs.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 82,
+        "nombre": "Dipper Sandia",
+        "descripcion": "gomas",
+        "categoria" : "dipper",
+        "precio": 6000,
+        "imagen": "Multimedia/Dipper/DipperSandia.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 83,
+        "nombre": "Dipper Frambuesa",
+        "descripcion": "gomas",
+        "categoria" : "dipper",
+        "precio": 6000,
+        "imagen": "Multimedia/Dipper/DipperFrambuesa.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 84,
+        "nombre": "Almendra 500 Gr",
+        "descripcion": "almendra",
+        "categoria" : "almendra",
+        "precio": 8208,
+        "imagen": "Multimedia/Almendra/Almendra500.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 85,
+        "nombre": "Almendra 250 Gr",
+        "descripcion": "almendra",
+        "categoria" : "almendra",
+        "precio": 4104,
+        "imagen": "Multimedia/Almendra/Almendra250.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 86,
+        "nombre": "Almendra 135 Gr",
+        "descripcion": "almendra",
+        "categoria" : "almendra",
+        "precio": 3564,
+        "imagen": "Multimedia/Almendra/Almendra135.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 87,
+        "nombre": "Almendra 800 Gr",
+        "descripcion": "almendra",
+        "categoria" : "almendra",
+        "precio": 1944,
+        "imagen": "Multimedia/Almendra/Almendra80.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 88,
+        "nombre": "Almendra 50 Gr",
+        "descripcion": "almendra",
+        "categoria" : "almendra",
+        "precio": 1350,
+        "imagen": "Multimedia/Almendra/Almendra50.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 89,
+        "nombre": "Waferello * 3 ; 16 Ud",
+        "descripcion": "Chocolates",
+        "categoria" : "chocolatesTurcos",
+        "precio": 35856,
+        "imagen": "Multimedia/Chocolates/Waferetto.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 90,
+        "nombre": "Waferello Canasta 16 Ud",
+        "descripcion": "Chocolates",
+        "categoria" : "chocolatesTurcos",
+        "precio": 13500,
+        "imagen": "Multimedia/Chocolates/Waferetto2.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 91,
+        "nombre": "Galletas Sandwich",
+        "descripcion": "Chocolates",
+        "categoria" : "chocolatesTurcos",
+        "precio": 1296,
+        "imagen": "Multimedia/Chocolates/Sandwich.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+
+      {
+        "id": 92,
+        "nombre": "Galleta Wafer XL 77 * 24",
+        "descripcion": "Chocolates",
+        "categoria" : "chocolatesTurcos",
+        "precio": 16740,
+        "imagen": "Multimedia/Chocolates/77.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+
+      {
+        "id": 93,
+        "nombre": "Alpines bolsa Un Kg",
+        "descripcion": "Chocolates",
+        "categoria" : "chocolatesTurcos",
+        "precio": 10800,
+        "imagen": "Multimedia/Chocolates/Alpines1kg.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+
+      {
+        "id": 94,
+        "nombre": "Alpines Caja 2 KG",
+        "descripcion": "Chocolates",
+        "categoria" : "chocolatesTurcos",
+        "precio": 21600,
+        "imagen": "Multimedia/Chocolates/Alpines2kg.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 95,
+        "nombre": "Regalito * 4 colores",
+        "descripcion": "Estuches",
+        "categoria" : "estuches",
+        "precio": 3478,
+        "imagen": "Multimedia/Estuches/Regalito4Colores.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 96,
+        "nombre": "Corazón * 3",
+        "descripcion": "Estuches",
+        "categoria" : "estuches",
+        "precio": 3664,
+        "imagen": "Multimedia/Estuches/CorazonX3.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 97,
+        "nombre": "Corazón * 5",
+        "descripcion": "Estuches",
+        "categoria" : "estuches",
+        "precio": 5551,
+        "imagen": "Multimedia/Estuches/CorazonX5.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 98,
+        "nombre": "Corazón * 8",
+        "descripcion": "Estuches",
+        "categoria" : "estuches",
+        "precio": 7552,
+        "imagen": "Multimedia/Estuches/CorazonX8.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 99,
+        "nombre": "Corazón * 12",
+        "descripcion": "Estuches",
+        "categoria" : "estuches",
+        "precio": 11000,
+        "imagen": "Multimedia/Estuches/CorazonX12.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 100,
+        "nombre": "Flor * 5",
+        "descripcion": "Estuches",
+        "categoria" : "estuches",
+        "precio": 5551,
+        "imagen": "Multimedia/Estuches/FlorX5.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 101,
+        "nombre": "Rentangular * 8",
+        "descripcion": "Estuches",
+        "categoria" : "estuches",
+        "precio": 7552,
+        "imagen": "Multimedia/Estuches/RectanguloX8.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 102,
+        "nombre": "Papas Pringles Grandes",
+        "descripcion": "Pringles",
+        "categoria" : "pringles",
+        "precio": 5832,
+        "imagen": "Multimedia/Pringles/PapaGrande.JPG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 103,
+        "nombre": "Papas Pringles Pequeñas",
+        "descripcion": "Pringles",
+        "categoria" : "pringles",
+        "precio": 2596,
+        "imagen": "Multimedia/Pringles/PapaPequeña.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 104,
+        "nombre": "Masmelo 80 Gr",
+        "descripcion": "Masmelos",
+        "categoria" : "masmelos",
+        "precio": 1188,
+        "imagen": "Multimedia/Otros/Masmelo80gr.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      },
+
+      {
+        "id": 105,
+        "nombre": "Masmelo 140 Gr",
+        "descripcion": "Masmelos",
+        "categoria" : "masmelos",
+        "precio": 1836,
+        "imagen": "Multimedia/Otros/Masmelo140gr.PNG",
+        "stock": 100,
+"cantidadCompra": 0
+      }
+
+
+
+
+
+
+
+
+    
+
+]
